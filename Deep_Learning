@@ -1,0 +1,8 @@
+Way of clustering, predicting, and training but with neural networks.
+
+what happens is that we have like a bunch of images etc that we need to understand. these images are passed through deep learning models which have different neural layers
+and each layer is used to decipher the image, its kind of why it is used for pattern recognition
+
+for example, consider that there is a ml model which is used for security reasons with a face lock. when we click an image of our face, this model is going to learn our face through each layer
+and then after recognising the features, it will create a special vector which will be used when we try to unlock the screen
+
