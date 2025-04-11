@@ -6,3 +6,9 @@ and each layer is used to decipher the image, its kind of why it is used for pat
 for example, consider that there is a ml model which is used for security reasons with a face lock. when we click an image of our face, this model is going to learn our face through each layer
 and then after recognising the features, it will create a special vector which will be used when we try to unlock the screen
 
+There are two types of neural network: shallow: only one hidden layer between input and output
+
+Deep Neural Networks: incorporates complexity of a certain level; has number of hidden layers encompassed in between i/p and o/p
+
+
+How the layers work: Input layer: takes the input// this is where the data enters the netw
